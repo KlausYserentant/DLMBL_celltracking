@@ -2,4 +2,7 @@ napari[all]
 zarr
 gunpowder
 matplotlib
-imagecodecs
+pathlib
+networkx
+scikit-image
+tensorboard
