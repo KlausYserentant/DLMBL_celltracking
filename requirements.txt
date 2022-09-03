@@ -1,3 +1,5 @@
 napari[all]
 zarr
 gunpowder
+matplotlib
+imagecodecs
