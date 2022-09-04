@@ -3,3 +3,7 @@ zarr
 gunpowder
 matplotlib
 imagecodecs
+torchsummary 
+tensorboard
+#jupyterlab
+tifffile
